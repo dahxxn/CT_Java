@@ -29,7 +29,7 @@ public class BridgeTruck_Lv2 {
 					bridge.offer(0);
 				}
 
-				time++;
+				time++; 
 				if (i == totalTrucksCount && remainWeight == weight)
 					break;
 			}
