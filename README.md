@@ -3,7 +3,7 @@
 ## Approach
 - Language: Java
 - Tools Used: Only Java, no IDE or external resources
-- Source: Programmers & Baekjoon
+- Source: Programmers & Baekjoon & SWEA
 
 ## Folder Structure
 The repository is organized as follows:
